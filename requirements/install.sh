@@ -17,6 +17,7 @@ apt install sed && \
 apt install tar && \
 apt install texinfo -y
 apt install fdisk -y && \
-apt instll mkfs -y
+apt install mkfs -y && \
+apt install parted -y
 
 
