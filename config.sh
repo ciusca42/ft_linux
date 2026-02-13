@@ -1,7 +1,3 @@
-set -a
-
-FT_LINUX_USER=linux
-FT_LINUX_PWD=ciuschi
+LINUX_USER=linux
+LINUX_PWD=ciuschi
 DISK_PATH=/dev/sdb
-
-set +a

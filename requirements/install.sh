@@ -12,7 +12,7 @@ apt-get install m4 -y && \
 apt install make -y && \
 apt install patch -y && \
 apt install perl -y && \
-apt install python-is-python3 && \
+apt install python-is-python3 -y && \
 apt install sed && \
 apt install tar && \
 apt install texinfo -y
